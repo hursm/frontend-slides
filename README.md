@@ -23,10 +23,15 @@ https://github.com/user-attachments/assets/ef57333e-f879-432a-afb9-180388982478
 
 ### Via Claude Code Custom Marketplace Source (Recommended)
 
-Install directly from this public GitHub repo:
+Install directly from this public GitHub repo. Run these as two separate Claude Code messages; do not paste both lines into the prompt at once.
 
 ```text
 /plugin marketplace add https://github.com/zarazhangrui/frontend-slides
+```
+
+After that finishes, run:
+
+```text
 /plugin install frontend-slides@frontend-slides
 ```
 
