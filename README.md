@@ -32,8 +32,6 @@ Install directly from this public GitHub repo:
 
 Use the HTTPS URL. The shorter `zarazhangrui/frontend-slides` form may make Claude Code try SSH, which can fail if GitHub is not already in your `known_hosts` file.
 
-This does not require the repo to be approved in the official Claude Code marketplace. Official marketplace listing is separate and still depends on Claude Code's review process.
-
 Then use it by typing `/frontend-slides:frontend-slides` in Claude Code. Claude Code namespaces plugin-installed skills as `/plugin-name:skill-name`.
 
 ### Claude Code Manual Installation
